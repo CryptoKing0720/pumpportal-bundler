@@ -1,0 +1,20 @@
+{
+  "name": "pumpportal-bundler-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.4",
+    "bs58": "^6.0.0",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "solana-validator": "^1.1.2"
+  }
+}
